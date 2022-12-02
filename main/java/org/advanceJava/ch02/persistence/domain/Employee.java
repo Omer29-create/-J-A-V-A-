@@ -1,9 +1,5 @@
 package org.advanceJava.ch02.persistence.domain;
 
-
-
-
-
 public class Employee extends Entity{
     protected String name;
     protected int year;
