@@ -1,6 +1,5 @@
 package org.advanceJava.ch02;
 
-
 public class AbstractClassExample extends AbstractClass {
 
 //	public void aMethod() {
