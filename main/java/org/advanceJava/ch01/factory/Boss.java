@@ -1,7 +1,5 @@
 package org.advanceJava.ch01.factory;
 
-
-
 public class Boss {
 
     public void youWorkToo() {
