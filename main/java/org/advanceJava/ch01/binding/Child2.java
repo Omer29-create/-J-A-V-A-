@@ -1,7 +1,6 @@
 package org.advanceJava.ch01.binding;
 
 
-
 public class Child2 extends Parent{
     public static int i = 25;
     public int j = 29;
