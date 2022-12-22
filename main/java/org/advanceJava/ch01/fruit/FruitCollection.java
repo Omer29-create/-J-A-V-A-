@@ -1,6 +1,5 @@
 package org.advanceJava.ch01.fruit;
 
-
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
