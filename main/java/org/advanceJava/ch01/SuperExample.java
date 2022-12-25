@@ -7,9 +7,6 @@ package org.advanceJava.ch01;
 
 
 
-
-
-
 public class SuperExample {
 
     public static void main(String[] args) {
